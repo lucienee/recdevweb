@@ -1,0 +1,19 @@
+h2{
+    color:rgb(183, 17, 106)  ;
+}
+p{
+    color:rgb(176, 22, 22);
+}
+.menu{
+    display: inline-block;/*deixa lado a lado */
+    padding:10px 20px;
+    background-color:aliceblue;
+    text-align:center;
+    font-size:16px;
+    border-radius:5px;
+    border: none;
+
+}
+.menu:houver{
+     background-color:beige;
+}
